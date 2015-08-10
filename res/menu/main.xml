@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cs.xml.kinnaid.MainActivity" >
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:showAsAction="ifRoom|withText"
+        android:title="ค้นหาร้าน"/>
+    <item
+        android:id="@+id/popular"
+        android:icon="@drawable/food"
+        android:showAsAction="ifRoom|withText"
+        android:title="ร้านยอดนิยม"/>
+    <item
+        android:id="@+id/shortView"
+        android:icon="@drawable/map"
+        android:showAsAction="ifRoom|withText"
+        android:title="ร้านใกล้เคียง"/>
+
+</menu>

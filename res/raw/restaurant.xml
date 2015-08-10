@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Restaurants>
+	<Restaurant >
+		<Name>Job Cake</Name>
+		<Description>Cake / Milk and coffee</Description>
+		<Address>Khon Kean, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Be-To-Sit Pub And Restaurant</Name>
+		<Description>Food and Drink</Description>
+		<Address>Khon Kean, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>T-Bone Steak</Name>
+		<Description>Steak and Food</Description>
+		<Address>Mittaphab road before Khon kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>The Cottage and Home gastro pub</Name>
+		<Description>Food and Drink</Description>
+		<Address>Rads, Amphoe Muang Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Ban more  Bakery and Coffee</Name>
+		<Description>Food/Cake/Coffee/Milk</Description>
+		<Address>Tumbron Sira Amphoe Muang, Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Adam and Eve Cafe</Name>
+		<Description>Coffee and Milk</Description>
+		<Address>Thanon Tawan Mai, Khon Kaen 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Sri Brown Cafe' Khon Kaen</Name>
+		<Description>Coffee and Milk</Description>
+		<Address>Sri Brown Cafe , Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Ban IAUN</Name>
+		<Description>Food and Milk</Description>
+		<Address>Ban Nonmung , Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Coffee Der La, Khon Kaen</Name>
+		<Description>Coffee</Description>
+		<Address>Theparak Road., Amphoe Muang Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Peace Time</Name>
+		<Description>Food/Coffee/Milk</Description>
+		<Address>Amphoe Muang Khon Kaen, Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Meme house </Name>
+		<Description>Coffee and Milk</Description>
+		<Address>After Khon Kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Kai rod tip</Name>
+		<Description>Food</Description>
+		<Address>Kangsadan Khon Kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Hear Heal</Name>
+		<Description>Food</Description>
+		<Address>Kangsadan Khon Kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Cafe Amazon KKU</Name>
+		<Description>Coffee</Description>
+		<Address>Khon Kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>See Bear Cafe'</Name>
+		<Description>Cake/Coffee/Milk</Description>
+		<Address>See Bear Cafe'</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Chidchol</Name>
+		<Description>Food</Description>
+		<Address>Kangsadan Khon Kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>555 MooDang</Name>
+		<Description>Food</Description>
+		<Address>Khon Kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Complex</Name>
+		<Description>Food service</Description>
+		<Address>Khon Kean University</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>Follow Bar and Bistro</Name>
+		<Description>Food and Drink</Description>
+		<Address>Opposite YiWha Khonkean, Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+		<Restaurant >
+		<Name>YiWha </Name>
+		<Description>Food and Drink</Description>
+		<Address>Opposite Follow , Khon Kaen, Thailand 40000</Address>
+	</Restaurant>
+	
+
+</Restaurants>
